@@ -1,4 +1,4 @@
-# PPE-GLPI – Projet de Gestion des Interventions Informatiques
+# PPE-GLPI : Documentation
 
 ## 📌 Introduction
 
