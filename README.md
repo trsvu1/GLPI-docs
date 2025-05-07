@@ -25,39 +25,6 @@ Ce projet a été réalisé dans le cadre d’un stage ou d’un projet académi
 
 ---
 
-## 🧰 Technologies utilisées
-
-- **PHP** (POO avec PDO)
-- **MySQL**
-- **HTML5 / CSS3**
-- **Bootstrap** (template QuickStart)
-- **JavaScript (basique)**
-
----
-
-## 🗂️ Arborescence du projet
-
-```
-/PPE-GLPI
-├── index.php
-├── /controleur
-│   └── controleur.php
-├── /modele
-│   └── *.php (fichiers de modèle pour chaque entité)
-├── /vue
-│   ├── header.php
-│   ├── footer.php
-│   ├── page_connexion.php
-│   ├── page_accueil.php
-│   └── autres vues...
-├── /css
-│   └── style.css
-└── /js
-    └── script.js
-```
-
----
-
 ## 🛠️ Installation et utilisation
 
 ### Prérequis
