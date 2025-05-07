@@ -8,23 +8,6 @@ Ce projet a été réalisé dans le cadre d’un stage ou d’un projet académi
 
 ---
 
-## 🚀 Fonctionnalités principales
-
-- 🔐 **Authentification des utilisateurs**
-  - Connexion sécurisée avec rôles (administrateur, technicien)
-- 👤 **Gestion des clients**
-  - Ajouter, modifier, supprimer, et consulter les fiches clients
-- 🔧 **Gestion des techniciens**
-  - Enregistrement, modification, et suppression des techniciens
-- 📱 **Suivi des téléphones**
-  - Association des téléphones achetés aux clients
-- 🛠️ **Gestion des interventions**
-  - Création, consultation et suivi des interventions
-- 📊 **Statistiques et rapports**
-  - Affichage des interventions en fonction de critères variés
-
----
-
 ## 🛠️ Installation et utilisation
 
 ### Prérequis
